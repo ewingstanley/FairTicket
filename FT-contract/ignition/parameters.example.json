@@ -1,0 +1,12 @@
+{
+  "FairTicketModule": {
+    "initialGlobalId": "1"
+  },
+  "FairTicketWithSetupModule": {
+    "initialGlobalId": "1",
+    "createSampleProject": false,
+    "sampleFingerprint": "0x0000000000000000000000000000000000000000000000000000000000000001",
+    "sampleOwner": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+    "sampleTotalSupply": "100"
+  }
+}
